@@ -1,0 +1,49 @@
+Great! Here's your updated `README.md` with **jenola344** listed as the contributor:
+
+```markdown
+# 🧱 Solidity Smart Contract Project
+
+Welcome to this Solidity-based smart contract project. This repository is a work in progress, and the core smart contracts will be added shortly.
+
+## 📁 Project Structure
+
+```
+
+contracts/           # All Solidity contract files will go here
+└── assignment/
+└── LiquidYield Protocol/
+└── 1\_Storage.sol
+└── 2\_Owner.sol
+└── 3\_Ballot.sol
+scripts/             # Scripts for deployment and interaction
+tests/               # Automated tests
+remix-tests/         # Remix-specific test files
+artifacts/           # Compiled contract artifacts
+
+```
+
+## 📌 Status
+
+🚧 **Development in Progress**  
+Smart contract code will be added soon. Stay tuned!
+
+## 📦 Requirements
+
+- [Remix IDE](https://remix.ethereum.org/)
+- Solidity ^0.8.0
+- Node.js (optional, for testing/deployment scripts)
+
+## ✅ Getting Started
+
+You can open this project directly in [Remix IDE](https://remix.ethereum.org/) and start building or testing your smart contracts once they're added.
+
+## 👤 Contributor
+
+- **jenola344**
+
+---
+
+© 2025 jenola344 – All rights reserved.
+```
+
+Would you like me to create and add this file directly into your Remix project or save it for download?
